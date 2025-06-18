@@ -1,0 +1,5 @@
+/home/jesus/AlgVisuales/build/CMakeFiles/PathfindingVisualizer.dir
+/home/jesus/AlgVisuales/build/CMakeFiles/edit_cache.dir
+/home/jesus/AlgVisuales/build/CMakeFiles/rebuild_cache.dir
+/home/jesus/AlgVisuales/build/CMakeFiles/PathfindingVisualizer_autogen_timestamp_deps.dir
+/home/jesus/AlgVisuales/build/CMakeFiles/PathfindingVisualizer_autogen.dir
