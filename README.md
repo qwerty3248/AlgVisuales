@@ -69,7 +69,7 @@ Antes de compilar, asegúrate de tener:
 chmod +x setup.sh
 ./setup.sh
 ```
-### Opción 1: Manual
+### Opción 2: Manual
 
 ```bash
 sudo apt update
